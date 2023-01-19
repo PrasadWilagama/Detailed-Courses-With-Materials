@@ -1,0 +1,27 @@
+Great Collection of Cheatsheets
+
+1 Linear Regression
+2 Gradient Descent
+3 Logistic Regression
+4 Glossary
+5 Calculus
+6 Linear Algebra
+7 Probability
+8 Statistics
+9 Notation
+10 Concepts
+11 Forwardpropagation
+12 Backpropagation
+13 Activation Functions
+14 Layers
+15 Loss Functions
+16 Optimizers
+17 Regularization
+18 Architectures
+19 Classification Algorithms
+20 Clustering Algorithms
+21 Regression Algorithms
+22 Reinforcement Learning
+23 Datasets
+24 Libraries
+25 Papers
